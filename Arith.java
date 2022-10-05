@@ -12,7 +12,7 @@ try
 {
  System.out.println("You cannot divide any number by zero");
 }
- System.out.println("Rest of the code");
+ System.out.println("Rest of the code in the Arithmetic exception");
 
 }
 }
